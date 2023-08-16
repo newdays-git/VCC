@@ -5,6 +5,6 @@
       location = "container:VCCMac.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:CoreUtil/CoreUtil.xcodeproj">
+      location = "group:/Users/apple/Documents/GitHub/VCC-for-mac/CoreUtil/$">
    </FileRef>
 </Workspace>
